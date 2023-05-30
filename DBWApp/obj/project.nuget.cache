@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "FcFOAZvMs96jZ+IsLZYUh2lu0wriyMOR3WBHXG0qFj5UmEsDXAQ7rbJGKAPum0RCRVn+zHwjjxWIIq3HgJI6qw==",
+  "success": true,
+  "projectFilePath": "D:\\C# projekty\\DBWApp\\DBWApp\\DBWApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lord\\.nuget\\packages\\commonservicelocator\\2.0.5\\commonservicelocator.2.0.5.nupkg.sha512",
+    "C:\\Users\\Lord\\.nuget\\packages\\mvvmlightlibs\\5.4.1.1\\mvvmlightlibs.5.4.1.1.nupkg.sha512",
+    "C:\\Users\\Lord\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Lord\\.nuget\\packages\\opensilver.mvvmlightlibs\\1.0.0.1\\opensilver.mvvmlightlibs.1.0.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MvvmLightLibs 5.4.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MvvmLightLibs",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
